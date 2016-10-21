@@ -64,7 +64,7 @@ public class LonelyTwitterActivity extends Activity {
 				addTweetsTask.execute(newTweet);
 			}
 		});
-
+		// Something
 		clearButton.setOnClickListener(new View.OnClickListener() {
 
 			public void onClick(View v) {
